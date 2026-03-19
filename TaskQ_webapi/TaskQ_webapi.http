@@ -1,0 +1,6 @@
+@TaskQ_webapi_HostAddress = http://localhost:5151
+
+GET {{TaskQ_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
