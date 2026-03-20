@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\TaskQ_webapi\\TaskQ_webapi.csproj": {}
+    "D:\\Task_q\\TaskQ_webapi\\TaskQ_webapi.csproj": {}
   },
   "projects": {
-    "D:\\projects\\TaskQ_webapi\\TaskQ_webapi.csproj": {
+    "D:\\Task_q\\TaskQ_webapi\\TaskQ_webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\TaskQ_webapi\\TaskQ_webapi.csproj",
+        "projectUniqueName": "D:\\Task_q\\TaskQ_webapi\\TaskQ_webapi.csproj",
         "projectName": "TaskQ_webapi",
-        "projectPath": "D:\\projects\\TaskQ_webapi\\TaskQ_webapi.csproj",
+        "projectPath": "D:\\Task_q\\TaskQ_webapi\\TaskQ_webapi.csproj",
         "packagesPath": "C:\\Users\\Rubesh Mageshkumar\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\TaskQ_webapi\\obj\\",
+        "outputPath": "D:\\Task_q\\TaskQ_webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
